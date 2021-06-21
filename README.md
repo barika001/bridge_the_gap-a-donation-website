@@ -24,11 +24,9 @@
 <img width="100%" src="assets/mission.jpg">
 
 :heavy_check_mark: Our Work
-<img width="100%" src="assets/our-work-screenshot.jpg">
 <img width="100%" src="assets/our-work-animation.gif">
 
 :heavy_check_mark: Donors
-<img width="100%" src="assets/donors-screenshot.jpg">
 <img width="100%" src="assets/donors-animation.gif">
 
 :heavy_check_mark: About us
