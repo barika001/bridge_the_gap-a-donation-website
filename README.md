@@ -1,20 +1,19 @@
 # Payment Gateway Integration
 
 ## Introduction
->  ### <b>The Sparks Foundation Web Development Internship Task</b> - Payment Gateway Integration
-> A responsive Donation Website comprising of Payment Gateway Integration through RAzorpay for donating any specific amount of money directly to "Bridge The Gap" Initiative.
+<img width="100%" src="assets/1.png">
+<img width="100%" src="assets/2.png">
+> <b>Task</b> - Developing A responsive Donation Website comprising of Payment Gateway Integration through Razorpay for donating any specific amount of money directly to "Bridge The Gap" Initiative.
 
-## Tech Stack Used:
-- HTML
-- CSS
-- Bootstrap
-- Javascript
-- jquery
+## Tech Stack & Hosting
+<img width="100%" src="assets/4.png">
 
-### Hosting: 
-This Website has been deployed on "Netlify".
+## About:
+<img width="100%" src="assets/3.png">
 
-Below are the screenshots and gifs of the website:
+<b><em>Website link:</b></em> https://bridgethegap01.netlify.app/
+
+###Below are the screenshots and gifs of the website:
 
 Home
 <img width="100%" src="assets/home.jpg">
@@ -27,8 +26,19 @@ Our Work
 <img width="100%" src="assets/ouw-work-animation.gif">
 
 Donors
-<img width="100%" src="assets/donors-screenshot.gif">
+<img width="100%" src="assets/donors-screenshot.jpg">
 <img width="100%" src="assets/donors-animation.gif">
 
 About us
 <img width="100%" src="assets/about-us.jpg">
+
+Razorpay payment button on the home page allows you to donate any sum of money through various payment options
+<img width="100%" src="assets/payment-1.jpg">
+<img width="100%" src="assets/payment-2.jpg">
+<img width="100%" src="assets/payment-3.jpg">
+
+E-mail received on succesful transaction
+<img width="100%" src="assets/receipt-mail.jpg">
+
+Responsive view on mobile
+<img width="100%" src="assets/responsive-view.jpg">
