@@ -12,6 +12,7 @@
 ## About:
 <img width="90%" src="assets/3.png">
 
+> <h2>Project name: <em>Bridge The Gap</em></h2>
 > <h3><em>Website link: </em> https://bridgethegap01.netlify.app/ </h3>
 
 ## Screenshots and gifs of the website:
