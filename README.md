@@ -13,7 +13,7 @@
 
 <b><em>Website link:</b></em> https://bridgethegap01.netlify.app/
 
-###Below are the screenshots and gifs of the website:
+### Screenshots and gifs of the website:
 
 Home
 <img width="100%" src="assets/home.jpg">
@@ -23,7 +23,7 @@ Mission
 
 Our Work
 <img width="100%" src="assets/our-work-screenshot.jpg">
-<img width="100%" src="assets/ouw-work-animation.gif">
+<img width="100%" src="assets/our-work-animation.gif">
 
 Donors
 <img width="100%" src="assets/donors-screenshot.jpg">
@@ -33,12 +33,14 @@ About us
 <img width="100%" src="assets/about-us.jpg">
 
 Razorpay payment button on the home page allows you to donate any sum of money through various payment options
-<img width="100%" src="assets/payment-1.jpg">
-<img width="100%" src="assets/payment-2.jpg">
-<img width="100%" src="assets/payment-3.jpg">
+<img width="100%" src="assets/payment1.jpg">
+<img width="100%" src="assets/payment2.jpg">
+<img width="100%" src="assets/payment3.jpg">
 
-E-mail received on succesful transaction
+E-mail :email: received on succesful transaction
 <img width="100%" src="assets/receipt-mail.jpg">
 
 Responsive view on mobile
 <img width="100%" src="assets/responsive-view.jpg">
+
+THANK YOU
