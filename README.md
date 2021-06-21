@@ -11,36 +11,36 @@
 ## About:
 <img width="100%" src="assets/3.png">
 
-<b><em>Website link:</b></em> https://bridgethegap01.netlify.app/
+> <b><em>Website link:</b></em> https://bridgethegap01.netlify.app/
 
 ### Screenshots and gifs of the website:
 
-Home
+:heavy_check_mark: Home
 <img width="100%" src="assets/home.jpg">
 
-Mission
+:heavy_check_mark: Mission
 <img width="100%" src="assets/mission.jpg">
 
-Our Work
+:heavy_check_mark: Our Work
 <img width="100%" src="assets/our-work-screenshot.jpg">
 <img width="100%" src="assets/our-work-animation.gif">
 
-Donors
+:heavy_check_mark: Donors
 <img width="100%" src="assets/donors-screenshot.jpg">
 <img width="100%" src="assets/donors-animation.gif">
 
-About us
-<img width="100%" src="assets/about-us.jpg">
+:heavy_check_mark: About us
+<img src="assets/about-us.jpg">
 
-Razorpay payment button on the home page allows you to donate any sum of money through various payment options
-<img width="100%" src="assets/payment1.jpg">
-<img width="100%" src="assets/payment2.jpg">
-<img width="100%" src="assets/payment3.jpg">
+:money_with_wings: Razorpay payment button on the home page allows you to donate any sum of money through various payment options
+<img width="100%" src="assets/payment1.jpg"> <br>
+<img width="100%" src="assets/payment2.jpg"> <br>
+<img width="100%" src="assets/payment3.jpg"> <br>
 
-E-mail :email: received on succesful transaction
+:email: E-mail received on succesful transaction
 <img width="100%" src="assets/receipt-mail.jpg">
 
-Responsive view on mobile
+:iphone: Responsive view on mobile
 <img width="100%" src="assets/responsive-view.jpg">
 
-THANK YOU
+<h2>THANK YOU :grinning:</h2>
