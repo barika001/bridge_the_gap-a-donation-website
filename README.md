@@ -3,6 +3,7 @@
 ## Introduction
 <img width="100%" src="assets/1.png">
 <img width="100%" src="assets/2.png">
+
 > <b><em>Task:</b></em> Developing A responsive Donation Website comprising of Payment Gateway Integration through Razorpay for donating any specific amount of money directly to "Bridge The Gap" Initiative.
 
 ## Tech Stack & Hosting
@@ -11,7 +12,7 @@
 ## About:
 <img width="90%" src="assets/3.png">
 
-> <b><em>Website link: </b></em> https://bridgethegap01.netlify.app/
+> <h3><em>Website link: </em> https://bridgethegap01.netlify.app/ </h3>
 
 ## Screenshots and gifs of the website:
 
@@ -40,7 +41,7 @@
 :email: E-mail received on succesful transaction
 <img width="100%" src="assets/receipt-mail.jpg">
 
-:iphone: Responsive view on mobile
+:iphone: Responsive view on mobile <br>
 <img src="assets/responsive-view.jpg">
 
-<h2>THANK YOU for visiting :grinning:</h2>
+<h3>THANK YOU for visiting my repository :relaxed:</h3>
