@@ -1,0 +1,230 @@
+@media only screen and (max-width:1025px) {
+    header .row .col-md-7 {
+        padding: 6vmin 4vmin;
+        padding-bottom: 1rem;
+    }
+
+    .mission .row .col-md-6 .panel {
+        position: initial;
+        height: initial;
+        width: initial;
+        padding: 4vmin 3.5vmin 2vmin 5vmin;
+        margin-right: 5em;
+        margin-left: -10em;
+    }
+
+    .numbers .rect {
+        margin: 0.6rem;
+    }
+
+    .numbers .rect h1 {
+        font-size: 2.8rem;
+    }
+
+    .numbers .rect p {
+        font-size: 1.3em;
+        padding: 0em 0.2em 0.2em 0.2em;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    header .navbar-brand {
+        padding-left: 1rem;
+        font-size: x-large;
+    }
+
+    .sticky .navbar-brand {
+        font-size: 1.4em;
+    }
+
+    header .nav-link {
+        font-size: 1.22em;
+    }
+
+    header .nav-link:hover {
+        background: none;
+        box-shadow: none;
+    }
+
+    header .navbar-collapse {
+        width: 100%;
+        background: rgba(0, 0, 0, 0.1);
+        transition: all 0.375s ease-in;
+    }
+
+    header .navbar-toggler i {
+        margin-right: 12px;
+        font-size: 22px !important;
+    }
+
+    header .row .col-md-7 {
+        padding: 6vmin 4vmin;
+        padding-bottom: 1rem;
+    }
+
+    header .container .col-md-7 p {
+        padding: 1vmin 0.5vmin;
+        font-size: 1.25em;
+    }
+
+    .mission {
+        padding: 3rem 0;
+    }
+
+    .mission .row .col-md-6 .pray img {
+        padding-left: 3em;
+        width: 86%;
+    }
+
+    .mission .row .col-md-6 .panel {
+        position: initial;
+        height: initial;
+        width: initial;
+        padding: 4vmin 3.5vmin 2vmin 5vmin;
+        margin-right: 3em !important;
+        margin-left: -8em !important;
+    }
+
+    .mission .row .col-md-6 .panel h1 {
+        font-size: 1.8em;
+        padding: 0em 0;
+    }
+
+    .cover .content {
+        padding-top: 12vmin;
+    }
+
+    .cover {
+        background-position: -25vmin -10vmin;
+        height: 52vmin;
+    }
+
+    .numbers .rect {
+        width: 10.6rem;
+        height: 8.4rem;
+        margin: 0.4rem !important;
+    }
+
+    .numbers .rect h1 {
+        font-size: 2.4rem;
+    }
+
+    .numbers .rect p {
+        font-size: 1.1em;
+    }
+
+    .card .card-text {
+        font-size: 4.15vmin;
+    }
+
+    .donors .team {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .donors .card {
+        width: 21rem;
+    }
+
+    .donors .card .card-text {
+        font-size: 1rem;
+    }
+
+    footer .form-inline {
+        width: 25vmin;
+    }
+
+    footer .column i {
+        font-size: 1.5em;
+    }
+
+    footer .column i+i {
+        display: inline;
+        padding: 0.5em 0.05em;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    header .container .col-md-7 h1 {
+        font-size: 10vmin;
+        padding: 0.2em 0em;
+    }
+
+    header .container .col-md-7 p {
+        padding: 2vmin 5vmin;
+        font-size: 1.15em;
+    }
+
+    .mission .row .col-md-6 .pray img {
+        padding: 0 !important;
+        width: 69%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        z-index: 1;
+    }
+
+    .mission .row .col-md-6 .panel {
+        font-size: 1.07em;
+        margin-right: 0em !important;
+        margin-left: 0em !important;
+    }
+
+    .cover {
+        height: 70vmin;
+        background-position: -30rem -18.5rem;
+        background-repeat: no-repeat;
+    }
+
+    .cover .content>p {
+        font-size: 4.8vmin;
+        padding: 0vmin 4.5vmin;
+    }
+
+    .numbers .rect {
+        width: 11.2rem;
+        height: 8rem;
+        margin: 1.7rem 0.5rem 0rem 0.5rem !important;
+    }
+
+    .numbers .rect p {
+        font-size: 1.2em;
+        padding: 0.4em;
+    }
+
+    .donors .container p {
+        font-size: 5vmin !important;
+    }
+
+    .donors .card .card-text {
+        font-size: 1.15rem;
+    }
+
+    footer .form-inline {
+        width: 70vmin;
+    }
+
+    footer .col-md-5 {
+        margin-top: 6vmin;
+    }
+
+    footer .col-md-3 {
+        margin-top: 8vmin;
+    }
+
+    footer .column i {
+        font-size: 1.5em;
+    }
+
+    footer .column i+i {
+        padding: 0.5em 0.6em;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .donors .card {
+        width: 18rem;
+    }
+}
