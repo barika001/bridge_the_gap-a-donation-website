@@ -243,6 +243,19 @@ footer {
     padding: 10vmin 12vmin;
 }
 
+@keyframes beat {
+    to {
+        transform: scale(1.4);
+    }
+}
+
+footer .beat {
+    font-size: smaller;
+    color: red;
+    padding: 0.3em;
+    animation: beat 0.25s infinite alternate;
+}
+
 footer input {
     border: none !important;
 }
