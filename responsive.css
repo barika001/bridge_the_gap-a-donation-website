@@ -3,6 +3,12 @@
         padding: 6vmin 4vmin;
         padding-bottom: 1rem;
     }
+    
+    header .nav-link:hover {
+        background: none;
+        box-shadow: none;
+        color: lightskyblue;
+    }
 
     .mission .row .col-md-6 .panel {
         position: initial;
