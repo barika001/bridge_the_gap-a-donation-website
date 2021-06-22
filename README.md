@@ -30,7 +30,7 @@
 <img width="100%" src="assets/donors-animation.gif">
 
 :heavy_check_mark: About us
-<img src="assets/about-us.jpg">
+<img src="assets/about-us2.jpg">
 
 :money_with_wings: Razorpay payment button on the home page allows you to donate any sum of money through various payment options
 <img width="100%" src="assets/payment1.jpg">
